@@ -5,6 +5,7 @@ import { Component } from '@angular/core';
   template: `
     <app-navbar></app-navbar>
     <app-cards></app-cards>
+    <app-pizze></app-pizze>
     <router-outlet></router-outlet>
   `,
   styles: [],
