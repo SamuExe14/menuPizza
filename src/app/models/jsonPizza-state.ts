@@ -1,3 +1,7 @@
+export interface Root {
+  pizza: Pizza[]
+}
+
 export interface Pizza {
   id: number
   name: string
