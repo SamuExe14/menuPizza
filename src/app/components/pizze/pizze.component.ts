@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { Pizza } from 'src/app/models/jsonPizza-state';
 import { PizzaState } from 'src/app/state/pizza-state';
 @Component({
   selector: 'app-pizze',
@@ -18,4 +19,5 @@ import { PizzaState } from 'src/app/state/pizza-state';
   `,
   styles: [],
 })
-export class PizzeComponent {}
+export class PizzeComponent {
+}
