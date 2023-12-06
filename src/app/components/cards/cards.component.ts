@@ -16,7 +16,7 @@ import { Component } from '@angular/core';
           <h2>Carrello</h2>
         </div>
         <div class="">
-          <button class="mt-5 btn btn-primary" style="margin-left: 15px;">
+          <button class="mt-5 mb-4 btn btn-primary" style="margin-left: 15px;">
             Carrello
           </button>
         </div>
